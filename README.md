@@ -16,7 +16,7 @@ User interface and frontend logic.
 
 ### 2. ⚙️ Backend API
 Node.js/Express API for data handling.
-🔗 [View Repository]((https://github.com/tedab9/schoolNet-BE)
+🔗 [View Repository](https://github.com/tedab9/schoolNet-BE)
 
 ---
 
