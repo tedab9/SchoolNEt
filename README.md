@@ -10,13 +10,14 @@ This project is split across three separate repositories:
 
 ### 1. 🧠 Frontend Application
 User interface and frontend logic.
-🔗 [View Repo](https://github.com/your-username/frontend-repo](https://github.com/Olanakelbesa/schoolnet)
+🔗 [View Repository]((https://github.com/Olanakelbesa/schoolnet
+))
 
 ---
 
 ### 2. ⚙️ Backend API
 Node.js/Express API for data handling.
-🔗 [View Repo](https://github.com/your-username/backend-repo](https://github.com/tedab9/schoolNet-BE)
+🔗 [View Repository]((https://github.com/tedab9/schoolNet-BE))
 
 ---
 
