@@ -2,7 +2,7 @@
 Provides github links for the backend , frontend and mobile application 
 # 🚀 Capstone Project Overview
 
-Welcome to Our schoolNet Capstone Project.
+Welcome to our schoolNet Capstone Project.
 
 This project is split across three separate repositories:
 
