@@ -1,4 +1,4 @@
-# SchoolNEt
+# SchoolNet
 Provides github links for the backend , frontend and mobile application 
 # 🚀 Capstone Project Overview
 
